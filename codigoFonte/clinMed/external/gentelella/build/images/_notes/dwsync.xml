@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="back_disabled.png" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602103080536" remote="131780489400000000" Dst="1" />
+<file name="back_enabled.png" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602103870521" remote="131780489400000000" Dst="1" />
+<file name="back_enabled_hover.png" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602104340511" remote="131780489400000000" Dst="1" />
+<file name="forward_disabled.png" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602105150514" remote="131780489400000000" Dst="1" />
+<file name="forward_enabled.png" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602106810494" remote="131780489400000000" Dst="1" />
+<file name="forward_enabled_hover.png" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602107130484" remote="131780489400000000" Dst="1" />
+<file name="loading.gif" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602108080473" remote="131780489400000000" Dst="1" />
+<file name="back_disabled.png" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191630142008" remote="131780489400000000" Dst="1" />
+<file name="back_enabled.png" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191631390011" remote="131780489400000000" Dst="1" />
+<file name="back_enabled_hover.png" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191633106014" remote="131780489400000000" Dst="1" />
+<file name="forward_disabled.png" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191634510016" remote="131780489400000000" Dst="1" />
+<file name="forward_enabled.png" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191636382019" remote="131780489400000000" Dst="1" />
+<file name="forward_enabled_hover.png" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191637006020" remote="131780489400000000" Dst="1" />
+<file name="loading.gif" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191639346025" remote="131780489400000000" Dst="1" />
+<file name="back_disabled.png" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="back_enabled.png" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="back_enabled_hover.png" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="forward_disabled.png" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="forward_enabled.png" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="forward_enabled_hover.png" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="loading.gif" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+</dwsync>

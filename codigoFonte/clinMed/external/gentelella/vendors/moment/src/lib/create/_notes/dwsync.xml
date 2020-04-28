@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="check-overflow.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603070139224" remote="131780490000000000" Dst="1" />
+<file name="date-from-array.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603070349199" remote="131780490000000000" Dst="1" />
+<file name="from-anything.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603070679179" remote="131780490000000000" Dst="1" />
+<file name="from-array.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603071659480" remote="131780490000000000" Dst="1" />
+<file name="from-object.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603071880126" remote="131780490000000000" Dst="1" />
+<file name="from-string-and-array.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603072160201" remote="131780490000000000" Dst="1" />
+<file name="from-string-and-format.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603072450187" remote="131780490000000000" Dst="1" />
+<file name="from-string.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603072680213" remote="131780490000000000" Dst="1" />
+<file name="local.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603072910182" remote="131780490000000000" Dst="1" />
+<file name="parsing-flags.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603074232353" remote="131780490000000000" Dst="1" />
+<file name="utc.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603074552338" remote="131780490000000000" Dst="1" />
+<file name="valid.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603074822311" remote="131780490000000000" Dst="1" />
+<file name="check-overflow.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198882750747" remote="131780490000000000" Dst="1" />
+<file name="date-from-array.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198884778751" remote="131780490000000000" Dst="1" />
+<file name="from-anything.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198894918768" remote="131780490000000000" Dst="1" />
+<file name="from-array.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198894918768" remote="131780490000000000" Dst="1" />
+<file name="from-object.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198895542769" remote="131780490000000000" Dst="1" />
+<file name="from-string-and-array.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198896790772" remote="131780490000000000" Dst="1" />
+<file name="from-string-and-format.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198902718782" remote="131780490000000000" Dst="1" />
+<file name="from-string.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198904122784" remote="131780490000000000" Dst="1" />
+<file name="local.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198907866791" remote="131780490000000000" Dst="1" />
+<file name="parsing-flags.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198909582794" remote="131780490000000000" Dst="1" />
+<file name="utc.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198913482801" remote="131780490000000000" Dst="1" />
+<file name="valid.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198915198804" remote="131780490000000000" Dst="1" />
+<file name="check-overflow.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="date-from-array.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="from-anything.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="from-array.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="from-object.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="from-string-and-array.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="from-string-and-format.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="from-string.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="local.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="parsing-flags.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="utc.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="valid.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+</dwsync>

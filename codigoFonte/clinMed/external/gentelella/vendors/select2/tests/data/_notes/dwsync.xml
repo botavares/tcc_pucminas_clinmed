@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="array-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603401213847" remote="131780490600000000" Dst="1" />
+<file name="base-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603401453863" remote="131780490600000000" Dst="1" />
+<file name="inputData-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603401663828" remote="131780490600000000" Dst="1" />
+<file name="maximumInputLength-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603401953857" remote="131780490600000000" Dst="1" />
+<file name="maximumSelectionLength-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603402173850" remote="131780490600000000" Dst="1" />
+<file name="minimumInputLength-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603402383829" remote="131780490600000000" Dst="1" />
+<file name="select-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603402723828" remote="131780490600000000" Dst="1" />
+<file name="tags-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603402963816" remote="131780490600000000" Dst="1" />
+<file name="tokenizer-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603403193827" remote="131780490600000000" Dst="1" />
+<file name="array-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202002756227" remote="131780490600000000" Dst="1" />
+<file name="base-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202004160229" remote="131780490600000000" Dst="1" />
+<file name="inputData-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202007748236" remote="131780490600000000" Dst="1" />
+<file name="maximumInputLength-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202009152238" remote="131780490600000000" Dst="1" />
+<file name="maximumSelectionLength-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202013208245" remote="131780490600000000" Dst="1" />
+<file name="minimumInputLength-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202014768248" remote="131780490600000000" Dst="1" />
+<file name="select-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202018512255" remote="131780490600000000" Dst="1" />
+<file name="tags-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202020072257" remote="131780490600000000" Dst="1" />
+<file name="tokenizer-tests.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802202023816264" remote="131780490600000000" Dst="1" />
+<file name="array-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="base-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="inputData-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="maximumInputLength-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="maximumSelectionLength-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="minimumInputLength-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="select-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="tags-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+<file name="tokenizer-tests.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288678000000000" Dst="0" />
+</dwsync>

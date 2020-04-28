@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="config.php" server="10.1.1.22//var/www/hp/breno/clinmed/" local="132095886142298721" remote="132095993400000000" Dst="1" />
+<file name="config.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="132267739025625386" remote="132267844800000000" Dst="0" />
+<file name="autoload.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="132146859043173836" remote="132146965800000000" Dst="1" />
+<file name="constants.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="database.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="132267794196370289" remote="132267900000000000" Dst="0" />
+<file name="doctypes.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="foreign_chars.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="hooks.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="index.html" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="memcached.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="migration.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="mimes.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="profiler.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="routes.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="132094838516472920" remote="132185884200000000" Dst="1" />
+<file name="smileys.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+<file name="user_agents.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131921057740000000" remote="132096000600000000" Dst="1" />
+</dwsync>
