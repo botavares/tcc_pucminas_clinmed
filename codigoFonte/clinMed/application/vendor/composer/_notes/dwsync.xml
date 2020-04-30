@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="autoload_classmap.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515966679703" remote="131733988800000000" Dst="1" />
+<file name="autoload_files.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515966679703" remote="131733988800000000" Dst="1" />
+<file name="autoload_namespaces.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515966360037" remote="131733988800000000" Dst="1" />
+<file name="autoload_psr4.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515966679703" remote="131733988800000000" Dst="1" />
+<file name="autoload_real.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515966992228" remote="131733988800000000" Dst="1" />
+<file name="autoload_static.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515966679703" remote="131733988800000000" Dst="1" />
+<file name="ClassLoader.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515967146669" remote="131733988800000000" Dst="1" />
+<file name="installed.json" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515956821353" remote="131733988800000000" Dst="1" />
+<file name="LICENSE" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515967146669" remote="131733988800000000" Dst="1" />
+<file name="autoload_classmap.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515966679703" remote="132116746800000000" Dst="1" />
+<file name="autoload_files.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515966679703" remote="132116746800000000" Dst="1" />
+<file name="autoload_namespaces.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515966360037" remote="132116746800000000" Dst="1" />
+<file name="autoload_psr4.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515966679703" remote="132116746800000000" Dst="1" />
+<file name="autoload_real.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515966992228" remote="132116746800000000" Dst="1" />
+<file name="autoload_static.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515966679703" remote="132116746800000000" Dst="1" />
+<file name="ClassLoader.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515967146669" remote="132116746800000000" Dst="1" />
+<file name="installed.json" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515956821353" remote="132116746800000000" Dst="1" />
+<file name="LICENSE" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515967146669" remote="132116746800000000" Dst="1" />
+<file name="autoload_classmap.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515966679703" remote="132292169400000000" Dst="0" />
+<file name="autoload_namespaces.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515966360037" remote="132292169400000000" Dst="0" />
+<file name="autoload_files.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515966679703" remote="132292169400000000" Dst="0" />
+<file name="autoload_real.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515966992228" remote="132292169400000000" Dst="0" />
+<file name="autoload_psr4.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515966679703" remote="132292169400000000" Dst="0" />
+<file name="autoload_static.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515966679703" remote="132292169400000000" Dst="0" />
+<file name="ClassLoader.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515967146669" remote="132292169400000000" Dst="0" />
+<file name="installed.json" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515956821353" remote="132292169400000000" Dst="0" />
+<file name="LICENSE" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515967146669" remote="132292169400000000" Dst="0" />
+</dwsync>

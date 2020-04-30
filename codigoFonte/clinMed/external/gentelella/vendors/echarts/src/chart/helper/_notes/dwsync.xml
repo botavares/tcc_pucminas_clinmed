@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="createGraphFromNodeEdge.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602653812725" remote="131780490000000000" Dst="1" />
+<file name="createGraphFromNodeMatrix.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602654222741" remote="131780490000000000" Dst="1" />
+<file name="createListFromArray.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602654562721" remote="131780490000000000" Dst="1" />
+<file name="EffectLine.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602650732770" remote="131780490000000000" Dst="1" />
+<file name="EffectSymbol.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602651152771" remote="131780490000000000" Dst="1" />
+<file name="LargeSymbolDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602651442767" remote="131780490000000000" Dst="1" />
+<file name="Line.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602651862754" remote="131780490000000000" Dst="1" />
+<file name="LineDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602652092756" remote="131780490000000000" Dst="1" />
+<file name="LinePath.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602652392742" remote="131780490000000000" Dst="1" />
+<file name="Symbol.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602652802743" remote="131780490000000000" Dst="1" />
+<file name="SymbolDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602653142746" remote="131780490000000000" Dst="1" />
+<file name="whiskerBoxCommon.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602654812708" remote="131780490000000000" Dst="1" />
+<file name="WhiskerBoxDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602653552752" remote="131780490000000000" Dst="1" />
+<file name="EffectLine.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195454020725" remote="131780490000000000" Dst="1" />
+<file name="EffectSymbol.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195455268727" remote="131780490000000000" Dst="1" />
+<file name="LargeSymbolDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195457764731" remote="131780490000000000" Dst="1" />
+<file name="Line.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195459012733" remote="131780490000000000" Dst="1" />
+<file name="LineDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195461196737" remote="131780490000000000" Dst="1" />
+<file name="LinePath.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195462444739" remote="131780490000000000" Dst="1" />
+<file name="Symbol.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195464940744" remote="131780490000000000" Dst="1" />
+<file name="SymbolDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195466032746" remote="131780490000000000" Dst="1" />
+<file name="WhiskerBoxDraw.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195468216750" remote="131780490000000000" Dst="1" />
+<file name="createGraphFromNodeEdge.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195469464752" remote="131780490000000000" Dst="1" />
+<file name="createGraphFromNodeMatrix.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195472896758" remote="131780490000000000" Dst="1" />
+<file name="createListFromArray.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195474144760" remote="131780490000000000" Dst="1" />
+<file name="whiskerBoxCommon.js" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802195476484764" remote="131780490000000000" Dst="1" />
+<file name="createGraphFromNodeEdge.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="createGraphFromNodeMatrix.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="createListFromArray.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="EffectLine.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="EffectSymbol.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="LargeSymbolDraw.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="Line.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="LineDraw.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="LinePath.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="Symbol.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="SymbolDraw.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="whiskerBoxCommon.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+<file name="WhiskerBoxDraw.js" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288676200000000" Dst="0" />
+</dwsync>

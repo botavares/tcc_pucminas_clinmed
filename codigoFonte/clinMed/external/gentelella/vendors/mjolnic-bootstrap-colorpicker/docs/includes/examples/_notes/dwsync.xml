@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="01_basic.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603032096218" remote="131780490000000000" Dst="1" />
+<file name="02_component.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603032366200" remote="131780490000000000" Dst="1" />
+<file name="03_component_options.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603032546190" remote="131780490000000000" Dst="1" />
+<file name="04_events.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603033338615" remote="131780490000000000" Dst="1" />
+<file name="05_transparent.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603033498596" remote="131780490000000000" Dst="1" />
+<file name="06_horizontal.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603033638606" remote="131780490000000000" Dst="1" />
+<file name="07_inline.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603033828590" remote="131780490000000000" Dst="1" />
+<file name="08_palette.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603034088568" remote="131780490000000000" Dst="1" />
+<file name="09_size.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603034248601" remote="131780490000000000" Dst="1" />
+<file name="10_disabled.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603034408591" remote="131780490000000000" Dst="1" />
+<file name="11_modal.hbs" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767603034578590" remote="131780490000000000" Dst="1" />
+<file name="01_basic.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198497742071" remote="131780490000000000" Dst="1" />
+<file name="02_component.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198499302073" remote="131780490000000000" Dst="1" />
+<file name="03_component_options.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198502734079" remote="131780490000000000" Dst="1" />
+<file name="04_events.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198504138082" remote="131780490000000000" Dst="1" />
+<file name="05_transparent.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198507882089" remote="131780490000000000" Dst="1" />
+<file name="06_horizontal.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198509442091" remote="131780490000000000" Dst="1" />
+<file name="07_inline.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198513342098" remote="131780490000000000" Dst="1" />
+<file name="08_palette.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198514902101" remote="131780490000000000" Dst="1" />
+<file name="09_size.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198518646107" remote="131780490000000000" Dst="1" />
+<file name="10_disabled.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198520050110" remote="131780490000000000" Dst="1" />
+<file name="11_modal.hbs" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802198523794116" remote="131780490000000000" Dst="1" />
+<file name="01_basic.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="02_component.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="03_component_options.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="04_events.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="05_transparent.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="06_horizontal.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="07_inline.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="08_palette.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="09_size.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="10_disabled.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+<file name="11_modal.hbs" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288677400000000" Dst="0" />
+</dwsync>

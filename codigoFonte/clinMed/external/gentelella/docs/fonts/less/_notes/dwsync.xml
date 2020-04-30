@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="bordered-pulled.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602115670381" remote="131780489400000000" Dst="1" />
+<file name="core.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602116180374" remote="131780489400000000" Dst="1" />
+<file name="fixed-width.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602116350383" remote="131780489400000000" Dst="1" />
+<file name="font-awesome.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602116530373" remote="131780489400000000" Dst="1" />
+<file name="icons.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602116920356" remote="131780489400000000" Dst="1" />
+<file name="larger.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602117090364" remote="131780489400000000" Dst="1" />
+<file name="list.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602117540383" remote="131780489400000000" Dst="1" />
+<file name="mixins.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602117760367" remote="131780489400000000" Dst="1" />
+<file name="path.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602117920352" remote="131780489400000000" Dst="1" />
+<file name="rotated-flipped.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602118220357" remote="131780489400000000" Dst="1" />
+<file name="spinning.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602118490335" remote="131780489400000000" Dst="1" />
+<file name="stacked.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602118750350" remote="131780489400000000" Dst="1" />
+<file name="variables.less" server="10.1.1.22//var/www/hp/portal/crpe/adm/" local="131767602119070335" remote="131780489400000000" Dst="1" />
+<file name="bordered-pulled.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191675850089" remote="131780489400000000" Dst="1" />
+<file name="core.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191676786090" remote="131780489400000000" Dst="1" />
+<file name="fixed-width.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191679282095" remote="131780489400000000" Dst="1" />
+<file name="font-awesome.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191680218096" remote="131780489400000000" Dst="1" />
+<file name="icons.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191682714101" remote="131780489400000000" Dst="1" />
+<file name="larger.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191683494102" remote="131780489400000000" Dst="1" />
+<file name="list.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191685990106" remote="131780489400000000" Dst="1" />
+<file name="mixins.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191687082108" remote="131780489400000000" Dst="1" />
+<file name="path.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191689422113" remote="131780489400000000" Dst="1" />
+<file name="rotated-flipped.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191690358114" remote="131780489400000000" Dst="1" />
+<file name="spinning.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191692698118" remote="131780489400000000" Dst="1" />
+<file name="stacked.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191693478120" remote="131780489400000000" Dst="1" />
+<file name="variables.less" server="10.1.1.22//var/www/hp/portal/crpe/" local="131802191695974124" remote="131780489400000000" Dst="1" />
+<file name="bordered-pulled.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="core.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="fixed-width.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="font-awesome.css" server="10.1.1.22//var/www/hp/portal/clinmed/" local="132265209696917316" remote="132288675000000000" Dst="0" />
+<file name="font-awesome.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="icons.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="larger.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="list.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="mixins.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="path.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="rotated-flipped.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="spinning.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="stacked.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+<file name="variables.less" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131944259900000000" remote="132288675000000000" Dst="0" />
+</dwsync>

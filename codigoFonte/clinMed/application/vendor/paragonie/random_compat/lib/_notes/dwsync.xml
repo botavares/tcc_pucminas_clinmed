@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="byte_safe_strings.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300139212" remote="131733989400000000" Dst="1" />
+<file name="cast_to_int.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300139212" remote="131733989400000000" Dst="1" />
+<file name="error_polyfill.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300139212" remote="131733989400000000" Dst="1" />
+<file name="random.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300295471" remote="131733989400000000" Dst="1" />
+<file name="random_bytes_com_dotnet.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300295471" remote="131733989400000000" Dst="1" />
+<file name="random_bytes_dev_urandom.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300295471" remote="131733989400000000" Dst="1" />
+<file name="random_bytes_libsodium.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300295471" remote="131733989400000000" Dst="1" />
+<file name="random_bytes_libsodium_legacy.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300295471" remote="131733989400000000" Dst="1" />
+<file name="random_bytes_mcrypt.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300295471" remote="131733989400000000" Dst="1" />
+<file name="random_int.php" server="10.1.1.22//var/www/hp/portal/alvaraProvisorio/" local="131698515300295471" remote="131733989400000000" Dst="1" />
+<file name="byte_safe_strings.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300139212" remote="132116747400000000" Dst="1" />
+<file name="cast_to_int.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300139212" remote="132116747400000000" Dst="1" />
+<file name="error_polyfill.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300139212" remote="132116747400000000" Dst="1" />
+<file name="random.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300295471" remote="132116747400000000" Dst="1" />
+<file name="random_bytes_com_dotnet.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300295471" remote="132116747400000000" Dst="1" />
+<file name="random_bytes_dev_urandom.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300295471" remote="132116747400000000" Dst="1" />
+<file name="random_bytes_libsodium.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300295471" remote="132116747400000000" Dst="1" />
+<file name="random_bytes_libsodium_legacy.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300295471" remote="132116747400000000" Dst="1" />
+<file name="random_bytes_mcrypt.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300295471" remote="132116747400000000" Dst="1" />
+<file name="random_int.php" server="10.1.1.22//var/www/hp/portal/alvaraLegal/" local="131698515300295471" remote="132116747400000000" Dst="1" />
+<file name="byte_safe_strings.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300139212" remote="132292170000000000" Dst="0" />
+<file name="cast_to_int.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300139212" remote="132292170000000000" Dst="0" />
+<file name="error_polyfill.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300139212" remote="132292170000000000" Dst="0" />
+<file name="random.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300295471" remote="132292170000000000" Dst="0" />
+<file name="random_bytes_com_dotnet.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300295471" remote="132292170000000000" Dst="0" />
+<file name="random_bytes_dev_urandom.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300295471" remote="132292170000000000" Dst="0" />
+<file name="random_bytes_libsodium.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300295471" remote="132292170000000000" Dst="0" />
+<file name="random_bytes_libsodium_legacy.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300295471" remote="132292170000000000" Dst="0" />
+<file name="random_bytes_mcrypt.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300295471" remote="132292170000000000" Dst="0" />
+<file name="random_int.php" server="10.1.1.22//var/www/hp/portal/clinmed/" local="131698515300295471" remote="132292170000000000" Dst="0" />
+</dwsync>
