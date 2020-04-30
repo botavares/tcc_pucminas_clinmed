@@ -102,7 +102,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       		</div>
       		<div class="modal-body">
         		<p class="font30"><i class="font35 amarelo fas fa-question-circle"></i>  Confirmar a Consulta de:</p>
-		  		<form method="POST" action="<?php echo base_url($controler.'/confirmarConsulta/false')?>">
+		  		<form method="POST" action="<?php echo base_url($controler.'/confirmarConsulta/true')?>">
 					<input class ="input-id"type="hidden" name="chavePrimaria" />
 					<label class="label-nome font25 black"></label>
 					<label class="label-dia font25 black"></label>
@@ -128,7 +128,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       		</div>
       		<div class="modal-body">
         		<p class="font30 green"><i class="font35 amarelo fas fa-question-circle"></i>  Cancelar a consulta de:</p>
-		  		<form method="POST" action="<?php echo base_url($controler.'/cancelarConsulta/false')?>">
+		  		<form method="POST" action="<?php echo base_url($controler.'/cancelarConsulta/true')?>">
 					<input class ="input-id"type="hidden" name="chavePrimaria" />
 					<label class="label-nome font25 black"></label>
 					<label class="label-dia font25 black"></label>
