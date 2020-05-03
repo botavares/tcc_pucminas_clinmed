@@ -1,6 +1,6 @@
 <?php
-$controler = "Medicos";
-$refer =  base_url()."Medicos/formPacienteHistorico/";
+$controler = "Consultas";
+$refer =  base_url()."Consultas/formPacienteHistorico/";
 ?>
 <div class="right_col" role="main">
 	<div class="x_panel">
@@ -31,7 +31,7 @@ $refer =  base_url()."Medicos/formPacienteHistorico/";
 		
 			
 			</p>
-			<a class="btn btn-primary" href="<?php echo base_url()."Medicos/historicoPaciente/".$paciente[0]["pk_id_cliente"]."/".$medico[0]["pk_id_profissional"]."/"."imprimir"?>"><i class="fas fa-print"></i> Imprimir Prontuário</a>
+			<a class="btn btn-primary" href="<?php echo base_url()."Consultas/historicoPaciente/".$paciente[0]["pk_id_cliente"]."/".$medico[0]["pk_id_profissional"]."/"."imprimir"?>"><i class="fas fa-print"></i> Imprimir Prontuário</a>
 			<table id="datatable-fixed-header" class="table table-striped table-bordered">
 				<thead>
 					<tr>

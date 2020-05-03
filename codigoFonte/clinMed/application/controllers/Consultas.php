@@ -85,7 +85,7 @@ class Consultas extends CI_Controller {
 		
 		
 		
-		$examesRecebidos	=	$this->Crud->readBy("tb_recebimentoexames","ds_numero_consulta",$idConsultaRecuperada,"ds_numero_consulta");
+		$examesRecebidos	=	$this->Crud->readCond("tb_recebimentoexames","ds_numero_consulta",$idConsultaRecuperada,"ds_origem_recebimento","1","ds_numero_consulta");
 		if(!$examesRecebidos){
 			$examesRecebidos="";
 		}
