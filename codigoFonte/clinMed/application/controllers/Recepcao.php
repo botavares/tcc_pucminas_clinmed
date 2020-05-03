@@ -329,7 +329,7 @@ class Recepcao extends CI_Controller {
 		
 		
 		
-		$acao = $this->input->post("action");
+		
 		$dados = array(
 			'fk_id_profissional'	=>	$idMedico,
 			'ds_data'				=>	date('Y-m-d', strtotime($diaConsulta)),
@@ -346,21 +346,23 @@ class Recepcao extends CI_Controller {
 			'ds_hora_cadastro'		=>	date('H:i:s'),
 		);
 		
+		
 		$this->form_validation->set_rules( 'idMedico', 'identificação médica', 'required' );
 		$this->form_validation->set_rules( 'diaConsulta', 'Dia da consulta', 'required' );
 		$this->form_validation->set_rules( 'horaConsulta', 'hora da consulta', 'required' );
 		$this->form_validation->set_rules( 'cliente', 'nome do cliente', 'required' );
 		
-		if($acao == "create"){
-			$duplicidade = $this->Consultas->listarConsultasAgendadasCliente( $cliente,$telefone,date('Y-m-d', strtotime($diaConsulta)),$idMedico,$tipoAtendimento,"ds_nome_cliente" );
-			if(!$duplicidade){
-				$this->Crud->create( "tb_agendaconsultas", $dados );
+		
+			
+		$duplicidade = $this->Consultas->listarConsultasAgendadasCliente( $cliente,$telefone,date('Y-m-d', strtotime($diaConsulta)),$idMedico,$tipoAtendimento,"ds_nome_cliente" );
+		if(!$duplicidade){
+			$this->Crud->create( "tb_agendaconsultas", $dados );
 				redirect( 'Recepcao/formAgendarConsultas/'.$idMedico.'/'.date('Y') );
-			}else{
-				$this->session->set_flashdata( 'mensagemerror', 'Já existe um cliente com esse nome e telefone cadastrado pra esse dia e médico!' );
-				redirect( 'Recepcao/formAgendarConsultas/'.$idMedico.'/'.date('Y') );
-			}
+		}else{
+			$this->session->set_flashdata( 'mensagemerror', 'Já existe um cliente com esse nome e telefone cadastrado pra esse dia e médico!' );
+			redirect( 'Recepcao/formAgendarConsultas/'.$idMedico.'/'.date('Y') );
 		}
+		
 		
 		
 	}

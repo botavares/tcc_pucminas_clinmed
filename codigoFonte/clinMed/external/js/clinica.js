@@ -102,6 +102,7 @@ $(document).ready(function($){
 		$(this).find("input,textarea,select").val('').end();
 		$(this).find(".labelData").html('').end();
 		$(this).find(".horarios").html('').end();
+		$(this).find("#modalAgendarConsulta").html('').end();
 		$(this).find(".diaConsultas").html('').end();
 		$(this).find(".tbody-desvincular").html('').end();
 	});
@@ -285,7 +286,7 @@ $(document).ready(function($){
 		
 		$.ajax({
 			type: "POST",				
-			url: path + "Medicos/verificarNumeroConsulta",
+			url: path + "Consultas/verificarNumeroConsulta",
 			DataType: 'json',				
 			data:{numeroConsulta:numeroConsulta},
 			success: function(data){
@@ -311,7 +312,7 @@ $(document).ready(function($){
 		
 		$.ajax({
 			type: "POST",				
-			url: path + "Medicos/verificarNumeroConsulta",
+			url: path + "Consultas/verificarNumeroConsulta",
 			DataType: 'json',				
 			data:{numeroConsulta:numeroConsulta},
 			success: function(data){
@@ -950,9 +951,9 @@ DISPARAR MODAL PARA A RECUPERAÇÃO DE REGISTROS DELETADOS LOGICAMENTE
 				$("#input-idMedico").val(c);
 				
 				$('#modalAgendarConsulta').on('hidden.bs.modal', function () {
-					$("#cpfRetorno").blur(function(event){
+					/*$("#cpfRetorno").blur(function(event){
   						event.preventDefault();
-					});
+					});*/
 				})
 				
 				
@@ -1120,7 +1121,7 @@ DISPARAR MODAL PARA A RECUPERAÇÃO DE REGISTROS DELETADOS LOGICAMENTE
 	
 	$("#datatable-fixed-header").on("change",".origemRecebimentoExame",function(){
 		if($(".origemRecebimentoExame").val() == 1){
-			$("#colunaArquivos").show();
+			$("#postarArquivo").show();
 		}else{
 			$("#postarArquivo").hide();
 		}

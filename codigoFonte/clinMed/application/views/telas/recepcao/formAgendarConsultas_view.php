@@ -330,7 +330,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       		</div>
 			<div class="modal-body">
 				<div class="x_title">
-					<form class="form-horizontal form-label-left" method="POST" action="<?php echo base_url().$controler.'/agendarConsulta'?>">
+					<form class="form-horizontal form-label-left" method="POST" action="<?php echo base_url().'Recepcao/agendarConsulta'?>">
 						<div class="form-group">
 							<label class="control-label col-md-4 col-sm-4 col-xs-12">Nome Cliente</label>
 							<div class="col-md-8 col-sm-8 col-xs-12">
@@ -339,7 +339,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<input type="hidden" id="input-idMedico" name="idMedico">
 								<input type="hidden" id="input-diaConsulta" name="diaConsulta">
 								<input type="hidden" id="input-horaConsulta" name="horaConsulta">
-								<input type="hidden" name="action" value="create">
 							</div>
 						</div>
 						<div class="form-group">

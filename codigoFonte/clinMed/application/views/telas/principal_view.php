@@ -185,36 +185,7 @@
         </div>
         <!-- /page content -->
 
-<div class="modal fade" id="modalAnaliticoClinica" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
-	<div class="modal-dialog" role="document">
-    	<div class="modal-content">
-      		<div class="modal-header">
-        		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          			<span aria-hidden="true">&times;</span>
-        		</button>
-				<h5 class="modal-title font25 blue bold ta-center">Relatório Analítico por Período</h5>
-      		</div>
-      		<div class="modal-body">
-        		<form method="POST" action="<?php echo base_url()."Relatorios/analiticoPeriodo"?>" target="_blank">
-					<div class="form-group">
-						<label class="col-lg-12 col-md-12 col-sm-12 col-xs-12">Data Inicial</label>
-						<input type="text" name="dataInicio" id="dataInicial" class="input-data form-control" required>
-					</div>
-					<div class="form-group">
-						<label class="col-lg-12 col-md-12 col-sm-12 col-xs-12">Data Final</label>
-						<input type="text" name="dataFim" id="dataFinal" class="input-data form-control" required>
-					</div>
-					
-					<label class="font20 green" id="nomeClienteCadastrado"></label>
-					<div class="modal-footer">
-		        		<button type="button" class="btn btn-warning" data-dismiss="modal">voltar</button>
-						<button type="submit" id="btnsubmit" class="btnRelatorio btn btn-success">Imprimir</button>
-					</div>	
-        		</form>
-      		</div>
-    	</div>
-  </div>
-</div>
+
 <div class="modal fade" id="modalErros" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
 	<div class="modal-dialog" role="document">
 		<div class="modal-content">
